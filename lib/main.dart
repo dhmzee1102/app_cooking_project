@@ -1,5 +1,4 @@
-// Importing important packages require to connect
-// Flutter and Dart
+
 import 'package:flutter/material.dart';
 
 // Main Function

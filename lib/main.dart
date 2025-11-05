@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 // Main Function
 void main() {
 
-// The purpose of the runApp() function is to attach
 // the given widget to the screen.
   runApp(const MyApp());
 }

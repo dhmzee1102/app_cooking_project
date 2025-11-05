@@ -1,17 +1,4 @@
 
-import 'package:flutter/material.dart';
-
-// Main Function
-void main() {
-
-// the given widget to the screen.
-  runApp(const MyApp());
-}
-
-// MyApp extends StatelessWidget and overrides its
-// build method.
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
 
 // This widget is the root of your application.
   @override
